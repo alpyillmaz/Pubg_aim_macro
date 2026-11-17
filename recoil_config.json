@@ -1,0 +1,26 @@
+{
+    "profiles": {
+        "1x": {
+            "name": "Red Dot / 1x",
+            "dy": 4,
+            "ms": 9
+        },
+        "2x": {
+            "name": "2x D\u00fcrb\u00fcn",
+            "dy": 7,
+            "ms": 11
+        },
+        "3x": {
+            "name": "3x D\u00fcrb\u00fcn",
+            "dy": 9,
+            "ms": 9
+        },
+        "4x": {
+            "name": "4x D\u00fcrb\u00fcn",
+            "dy": 6,
+            "ms": 5
+        }
+    },
+    "current_profile": "1x",
+    "ramp_up": true
+}
